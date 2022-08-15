@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "product_id": "1",
+      "extra_name": "玉ねぎ",
+      "extra_en_name": "onion",
+      "possible_max_extra_volume": 3
+    },
+    {
+      "product_id": "2",
+      "extra_name": "ケチャップ",
+      "extra_en_name": "ketchup",
+      "possible_max_extra_volume": 1
+    },
+    {
+      "product_id": "3",
+      "extra_name": "マスタード",
+      "extra_en_name": "mustard",
+      "possible_max_extra_volume": 1
+    }
+  ]
+}

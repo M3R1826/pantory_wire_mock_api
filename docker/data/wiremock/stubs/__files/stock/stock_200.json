@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "stock_name": "玉ねぎ",
+      "remaining_number": 11,
+      "current_use_date": "2022-08-04 00:00:00.000",
+      "updated_at": "2022-08-03 00:00:00.000",
+      "unit": 1,
+      "need_alert": true
+    },
+    {
+      "id": "2",
+      "stock_name": "ごま油",
+      "remaining_number": 3,
+      "current_use_date": "2022-08-04 00:00:00.000",
+      "updated_at": "2022-01-03 00:00:00.000",
+      "unit": 3,
+      "need_alert": false
+    },
+    {
+      "id": "3",
+      "stock_name": "にんじん",
+      "remaining_number": 8,
+      "current_use_date": "2022-08-04 00:00:00.000",
+      "updated_at": "2022-06-03 00:00:00.000",
+      "unit": 2,
+      "need_alert": true
+    },
+    {
+      "id": "4",
+      "stock_name": "きゅうり",
+      "remaining_number": 12,
+      "current_use_date": "2022-08-04 00:00:00.000",
+      "updated_at": "2022-06-03 00:00:00.000",
+      "unit": 2,
+      "need_alert": true
+    },
+    {
+      "id": "5",
+      "stock_name": "しおコショウ",
+      "remaining_number": 2,
+      "current_use_date": "2022-08-04 00:00:00.000",
+      "updated_at": "2022-06-03 00:00:00.000",
+      "unit": 1,
+      "need_alert": true
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "request": {
+    "method": "GET",
+    "urlPath": "/test"
+  },
+  "response": {
+    "status": "200",
+    "bodyFileName": "hello_world.json",
+    "headers": {
+      "Content-Type": "application/json; charset=UTF-8"
+    },
+    "transformers": [
+      "response-template"
+    ]
+  }
+}
