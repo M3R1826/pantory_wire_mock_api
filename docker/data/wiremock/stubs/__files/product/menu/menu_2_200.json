@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "product_id": "07384l",
+      "product_name": "サラダ",
+      "product_price": 300,
+      "stocks": 50,
+      "image_full_path": "https://cdn.sbfoods.co.jp/recipes/07384_l.jpg"
+    },
+    {
+      "product_id": "l585768",
+      "product_name": "ポテト",
+      "product_price": 500,
+      "stocks": 30,
+      "image_full_path": "https://www.lawson.co.jp/recommend/original/detail/img/l585768.png"
+    },
+    {
+      "product_id": "largeimageoriginal",
+      "product_name": "チーズもち",
+      "product_price": 250,
+      "stocks": 100,
+      "image_full_path": "https://video.kurashiru.com/production/recipe_card/cover_image/32970/large_image_original.jpg"
+    }
+  ]
+}

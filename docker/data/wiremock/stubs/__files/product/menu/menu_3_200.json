@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "product_id": "06051219585ed9b9de4a3f7",
+      "product_name": "サガリ",
+      "product_price": 780,
+      "stocks": 150,
+      "image_full_path": "https://www.iwataya-food.jp/mart/html/upload/save_image/0605121958_5ed9b9de4a3f7.jpg"
+    },
+    {
+      "product_id": "karubiimg940x627",
+      "product_name": "カルビ",
+      "product_price": 900,
+      "stocks": 100,
+      "image_full_path": "https://shozantei.com/media/wp-content/uploads/2021/04/karubi_img-940x627.jpg"
+    },
+    {
+      "product_id": "roseill",
+      "product_name": "ロース",
+      "product_price": 1200,
+      "stocks": 100,
+      "image_full_path": "https://meats-town.com/media/wp-content/uploads/2021/05/rose-ill.jpg"
+    }
+  ]
+}

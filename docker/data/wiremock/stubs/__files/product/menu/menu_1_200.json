@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "product_id": "23466133L2",
+      "product_name": "コーラ",
+      "product_price": 120,
+      "stocks": null,
+      "image_full_path": "https://askul.c.yimg.jp/img/product/3L2/2346613_3L2.jpg"
+    },
+    {
+      "product_id": "3844283L1",
+      "product_name": "烏龍茶",
+      "product_price": 120,
+      "stocks": null,
+      "image_full_path": "https://askul.c.yimg.jp/img/product/3L1/384428_3L1.jpg"
+    },
+    {
+      "product_name": "ゼロコーラ",
+      "product_price": 150,
+      "stocks": null,
+      "image_full_path": "https://m.media-amazon.com/images/I/31VeLxxWv6L._SL500_.jpg"
+    },
+    {
+      "product_id": "31VeLxxWv6LSL500",
+      "product_name": "期間限定ドリンク",
+      "product_price": 200,
+      "stocks": 20,
+      "image_full_path": "https://crea.ismcdn.jp/mwimgs/0/1/-/img_01c1b0ef65b16ba004d01fa580a163a114864.jpg"
+    },
+    {
+      "product_id": "icecofee01",
+      "product_name": "アイスコーヒー",
+      "product_price": 200,
+      "stocks": null,
+      "image_full_path": "https://www.tullys.co.jp/menu/uploads/01.jpg"
+    }
+  ]
+}

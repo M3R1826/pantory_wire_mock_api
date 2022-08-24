@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "product_id": "imgcheeseburger202104",
+      "product_name": "チーズバーガー",
+      "product_price": 120,
+      "stocks": 12,
+      "image_full_path": "https://www.awok.co.jp/wp02/wp-content/themes/fcvanilla/img/humberger/img_cheeseburger_202104.jpg"
+    },
+    {
+      "product_id": "imgteriyakiburger202104",
+      "product_name": "テリヤキバーガー",
+      "product_price": 200,
+      "stocks": 8,
+      "image_full_path": "https://www.awok.co.jp/wp02/wp-content/themes/fcvanilla/img/humberger/img_teriyakiburger_202104.jpg"
+    },
+    {
+      "product_id": "vegetableburger",
+      "product_name": "レタスバーガー",
+      "product_price": 300,
+      "stocks": 20,
+      "image_full_path": "https://www.freshnessburger.co.jp/images/menu/vegetable_burger.jpg"
+    },
+    {
+      "product_id": "5f800b7f90fa28bb",
+      "product_name": "ビッグバーガー",
+      "product_price": 400,
+      "stocks": 25,
+      "image_full_path": "https://ascii.jp/img/2019/02/27/719818/l/5f800b7f90fa28bb.jpg"
+    },
+    {
+      "product_id": "fishburger",
+      "product_name": "フィッシュバーガー",
+      "product_price": 350,
+      "stocks": 30,
+      "image_full_path": "https://www.freshnessburger.co.jp/images/menu/fish_burger.jpg"
+    }
+  ]
+}

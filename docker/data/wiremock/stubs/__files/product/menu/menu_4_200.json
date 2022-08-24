@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "product_id": "00097001",
+      "product_name": "豚トロ",
+      "product_price": 600,
+      "stocks": 50,
+      "image_full_path": "https://www.ebarafoods.com/recipe/detail/assets_img/887008b0-1a4b-11ea-ba87-c92a4ee36024/ec52a720-1a4b-11ea-af30-89d6d0cace07/00097_001.jpg"
+    },
+    {
+      "product_id": "000000000299EB4A06y",
+      "product_name": "豚ホルモン",
+      "product_price": 800,
+      "stocks": 30,
+      "image_full_path": "https://makeshop-multi-images.akamaized.net/nanchiku/itemimages/000000000299_EB4A06y.jpg"
+    },
+    {
+      "product_id": "HrwN4aqDWZd2YNxRFdpmX2MeiIWOg2JJK5hgYau1",
+      "product_name": "カルビ",
+      "product_price": 800,
+      "stocks": 100,
+      "image_full_path": "https://cdn.takeout.epark.jp/images/product/4441/580448/HrwN4aqDWZd2YNxRFdpmX2MeiIWOg2JJK5hgYau1.jpeg"
+    }
+  ]
+}

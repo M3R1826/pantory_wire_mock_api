@@ -1,0 +1,24 @@
+{
+  "request": {
+    "method": "GET",
+    "urlPath": "/product/12345/menu",
+    "queryParameters": {
+      "category_id": {
+        "matches": "^[0-9]{1}$"
+      }
+    }
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName": "product/menu/menu_{{request.query.category_id}}_200.json",
+    "headers": {
+      "Content-Type" : "application/json; charset=UTF-8",
+      "Access-Control-Allow-Origin" : "*",
+      "Access-Control-Allow-Methods" : "*",
+      "Access-Control-Allow-Headers": "Accept, Content-Type, Content-Encoding, Server, Transfer-Encoding"
+    },
+    "transformers": [
+      "response-template"
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "request": {
+    "method": "GET",
+    "urlPath": "/shop/12345"
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName": "shop_info/shop_200.json",
+    "headers": {
+      "Content-Type" : "application/json; charset=UTF-8",
+      "Access-Control-Allow-Origin" : "*",
+      "Access-Control-Allow-Methods" : "*",
+      "Access-Control-Allow-Headers": "Accept, Content-Type, Content-Encoding, Server, Transfer-Encoding"
+    },
+    "transformers": [
+      "response-template"
+    ]
+  }
+}
